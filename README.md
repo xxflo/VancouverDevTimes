@@ -1,8 +1,13 @@
+# About the repo
+
+This was a project designed and developed from scratch at a software engineering capstone course at UBC. We worked in a team of five. The technology stack we picked was React+Redux for frontend, Node.js for backend and MySQL for database. The app was tested with postman automated scripts and JMeter. It was original deployed on aws http://vandevtimes-dev.us-west-2.elasticbeanstalk.com, but we took it down after the course due to quota limit. If you want to run the app, follow the following instructions to set up local development envrionment. There's also a guide for how to deploy on AWS [INSTALL.md](https://github.com/xxflo/VancouverDevTimes/blob/master/INSTALL.md).
+
+
 # Instructions on how to set up the Dev environment for **"Vancouver DEV Times"**
 
 ![](src/client/assets/screenshot.jpg)
 
-Note: for deployment setup refer to [INSTALL.md](https://gitlab.com/cpsc319-2019w2/galvanize/byteme/CS319/-/blob/master/INSTALL.md)
+Note: for deployment setup refer to [INSTALL.md](https://github.com/xxflo/VancouverDevTimes/blob/master/INSTALL.md)
 
 # Checkout Git branch
 
